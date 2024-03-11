@@ -51,7 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\wfh\wfh.csproj">
-      <Project>{66ec143f-0bd0-4c85-8065-7aad0ea36e20}</Project>
+      <Project>{bd9bac5f-587a-476b-85f5-5378e76c61b1}</Project>
       <Name>wfh</Name>
     </ProjectReference>
   </ItemGroup>
