@@ -17,4 +17,4 @@ You can just the function like this:
 bool isFocused = FocusHandler.IsProcessWindowFocused(targetProcess);
 ```
 
-Check this [this](https://github.com/KidiXDev/WindowFocusHandler/blob/main/src/ExampleProject/Program.cs) for more detailed information
+Check [this](https://github.com/KidiXDev/WindowFocusHandler/blob/main/src/ExampleProject/Program.cs) for more detailed information
